@@ -1,5 +1,5 @@
 {
-  "name": "whoru",
+  "name": "Mixpanel Script",
   "version": "0.0.0",
   "dependencies": {
   	"mixpanel": "0.0.18",
