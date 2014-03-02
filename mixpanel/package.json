@@ -1,0 +1,11 @@
+{
+  "name": "whoru",
+  "version": "0.0.0",
+  "dependencies": {
+  	"mixpanel": "0.0.18",
+    "mixpanel-data-export": "1.0.3"
+  },
+  "devDependencies": {
+    
+  }
+}
